@@ -1,0 +1,126 @@
+{
+  "slug": "fishswimclear",
+  "box": 207,
+  "question": "How do fish swim?",
+  "url": "https://glassbox.how/e/fishswimclear/",
+  "app": "https://glassbox.how/fishswimclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From Borelli's swimming machines in 1680 to laser-lit swirls, robot tuna and India's hilsa returning past Farakka.\n\n1680: A book on how animals move\n1926: Swimmers sorted into kinds\n1933: Filming the eel\n1936: Gray's paradox\n1957: Carps bred on a farm\n1960: Fish swimming becomes mathematics\n\nThe full story, with 24 moments, sources and charts: glassbox.how/e/fishswimclear/history (link in bio)\n\nThen play with how it works: glassbox.how/fishswimclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fish #swimming #fishlocomotion #swimbladder #strouhalnumber #rohu #history",
+      "youtube": {
+        "title": "How we worked out how fish swim in 45 seconds #shorts",
+        "description": "From Borelli's swimming machines in 1680 to laser-lit swirls, robot tuna and India's hilsa returning past Farakka.\n\n1680 · A book on how animals move (Giovanni Alfonso Borelli)\n1926 · Swimmers sorted into kinds (Charles M. Breder)\n1933 · Filming the eel (James Gray)\n1936 · Gray's paradox (James Gray)\n1957 · Carps bred on a farm (Hiralal Chaudhuri and K. H. Alikunhi)\n1960 · Fish swimming becomes mathematics (James Lighthill)\n\n▶ Full history: https://glassbox.how/e/fishswimclear/history/\n▶ Play with it: https://glassbox.how/e/fishswimclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do fish swim?\n\nA fish never paddles: it bends. Watch a wave run down a rohu's body, see the swirls its tail leaves behind, and find out how a bag of gas lets it hang still in the water.\n\n→ Most of a fish is muscle, cut into W-shaped blocks along a flexible backbone.\n→ A fish swims by bending: a wave runs down its body and grows towards the tail.\n→ Every flick sheds a swirl, and a jet of water between them pushes the fish forward.\n→ Eels bend all over, tunas flick just the tail, and good swimmers keep Strouhal near 0.3.\n→ A swim bladder is a bag of gas: dive deeper and the water squeezes it smaller.\n\nPlay with it yourself. It's free and open source: glassbox.how/fishswimclear (link in bio)\n\nBox No. 207 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fish #swimming #fishlocomotion #swimbladder #strouhalnumber #rohu #hilsa #biomechanics #threejs",
+    "carousel": "Swipe through: How do fish swim?\n\nA fish never paddles: it bends. Watch a wave run down a rohu's body, see the swirls its tail leaves behind, and find out how a bag of gas lets it hang still in the water.\n\nSave this for later, then play with the interactive version at glassbox.how/fishswimclear (link in bio).\n\nBox No. 207 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #fish #swimming #fishlocomotion #swimbladder #strouhalnumber #rohu",
+    "youtube": {
+      "title": "How do fish swim? #shorts",
+      "description": "A fish never paddles: it bends. Watch a wave run down a rohu's body, see the swirls its tail leaves behind, and find out how a bag of gas lets it hang still in the water.\n\n▶ Play with it: https://glassbox.how/e/fishswimclear/\n⌘ Source code (MIT): https://github.com/bdeeps/fishswimclear\n\nBox No. 207 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do fish swim? (interactive explainer)",
+      "description": "A fish never paddles: it bends. Watch a wave run down a rohu's body, see the swirls its tail leaves behind, and find out how a bag of gas lets it hang still in the water.\n\n▶ Play with the interactive version: https://glassbox.how/e/fishswimclear/\n⌘ Source code (MIT): https://github.com/bdeeps/fishswimclear\n\nIn this video:\n• Most of a fish is muscle. A fish's body is mostly swimming muscle, cut into W-shaped blocks called myomeres along a bendy backbone.\n• A wave runs down the body. Muscles shorten one block after another, first on one side, then the other.\n• A bag of gas to hang still. Fish flesh is a little denser than water.\n• India's fish. Catla, rohu and mrigal share Indian ponds by feeding at the top, middle and bottom.\n• Fish and people. A fish stock gives the biggest steady catch when it is kept at about half its natural size.\n• How we found out. Breder sorted swimming styles in 1926, Gray filmed eels in 1933 and posed his dolphin paradox in 1936, Lighthill wrote the maths in 1960, and robot fish have tested the ideas since 1994.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do fish swim?\n\nA fish never paddles: it bends.\n\nPlay with it: https://glassbox.how/e/fishswimclear/",
+    "linkedin": "How do fish swim?\n\nA fish never paddles: it bends. Watch a wave run down a rohu's body, see the swirls its tail leaves behind, and find out how a bag of gas lets it hang still in the water.\n\n1. Most of a fish is muscle\n2. A wave runs down the body\n3. A bag of gas to hang still\n4. India's fish\n5. Fish and people\n6. How we found out\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 207 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/fishswimclear/\nCode: https://github.com/bdeeps/fishswimclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-07T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-06T15:58:19.047Z"
+}

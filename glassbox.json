@@ -1,0 +1,105 @@
+{
+  "slug": "fishswimclear",
+  "box": 207,
+  "date": "2026-11-07",
+  "title": "FishSwimClear",
+  "question": "How do fish swim?",
+  "hook": "A fish never paddles: it bends. Watch a wave run down a rohu's body, see the swirls its tail leaves behind, and find out how a bag of gas lets it hang still in the water.",
+  "thumbText": "HOW FISH SWIM",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "fish",
+    "swimming",
+    "fish locomotion",
+    "swim bladder",
+    "Strouhal number",
+    "rohu",
+    "hilsa",
+    "biomechanics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Most of a fish is muscle",
+      "text": "A fish's body is mostly swimming muscle, cut into W-shaped blocks called myomeres along a bendy backbone. A thin strip of red muscle cruises all day; the pale white bulk is for sprints. Fins steer and brake, a swim bladder holds gas, and a lateral line feels the water."
+    },
+    {
+      "title": "A wave runs down the body",
+      "text": "Muscles shorten one block after another, first on one side, then the other. A bend runs from head to tail, growing as it goes, and pushes water backwards, leaving a trail of swirls, so the fish moves forwards. Efficient swimmers keep tail beats times tail swing divided by speed, the Strouhal number, between about 0.2 and 0.4."
+    },
+    {
+      "title": "A bag of gas to hang still",
+      "text": "Fish flesh is a little denser than water. A swim bladder of about 7% of the body makes a river fish weigh nothing in water; about 5% is enough in the denser sea. Sharks have no bladder: an oily liver and swimming keep them up. Pectoral fins brake and turn, and a giant nerve cell fires the lightning C-start escape."
+    },
+    {
+      "title": "India's fish",
+      "text": "Catla, rohu and mrigal share Indian ponds by feeding at the top, middle and bottom. Hilsa swim up the Ganga in the monsoon, and the Farakka barrage cut that run from 1975. Mudskippers in the Sundarbans walk on their fins."
+    },
+    {
+      "title": "Fish and people",
+      "text": "A fish stock gives the biggest steady catch when it is kept at about half its natural size. India rests its seas for 61 days a year during the breeding season, and fish passes help fish climb past dams."
+    },
+    {
+      "title": "How we found out",
+      "text": "Breder sorted swimming styles in 1926, Gray filmed eels in 1933 and posed his dolphin paradox in 1936, Lighthill wrote the maths in 1960, and robot fish have tested the ideas since 1994."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Myomere",
+      "def": "One W-shaped block of a fish's swimming muscle; there is one for each vertebra."
+    },
+    {
+      "term": "Red and white muscle",
+      "def": "Red muscle is a thin, tireless strip for cruising; white muscle is the powerful bulk used for bursts."
+    },
+    {
+      "term": "Body wave",
+      "def": "A bend that travels from head to tail along a swimming fish, growing as it goes."
+    },
+    {
+      "term": "Strouhal number",
+      "def": "Tail-beat frequency times tail swing divided by speed; efficient swimmers keep it between about 0.2 and 0.4."
+    },
+    {
+      "term": "Vortex wake",
+      "def": "The trail of alternating swirls a swimming fish leaves, with a backward jet between them."
+    },
+    {
+      "term": "Swim bladder",
+      "def": "A gas-filled sac that makes a bony fish about as dense as the water around it."
+    },
+    {
+      "term": "Lateral line",
+      "def": "A row of sense organs along each side that feels water movement and pressure."
+    },
+    {
+      "term": "C-start",
+      "def": "A fish's fastest escape: a C-shaped bend triggered by a giant Mauthner nerve cell, then a tail flick."
+    },
+    {
+      "term": "Composite fish culture",
+      "def": "Farming fish that feed at different depths, like catla, rohu and mrigal, in the same pond."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "fishswimclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

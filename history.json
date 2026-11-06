@@ -1,0 +1,735 @@
+{
+  "title": "How we worked out how fish swim",
+  "tagline": "From Borelli's swimming machines in 1680 to laser-lit swirls, robot tuna and India's hilsa returning past Farakka.",
+  "intro": "People ate, farmed and admired fish for thousands of years before anyone could explain how they swim. It took physics, film, mathematics and finally lasers to see that a fish bends in a wave and throws swirls of water behind it. Along the way, India built some of the world's biggest fish farms and learned how dams and overfishing can empty a river.",
+  "eras": [
+    {
+      "id": "early",
+      "name": "Bones, muscles and nerves",
+      "from": 1680,
+      "to": 1920,
+      "color": "#c49bff",
+      "summary": "Scientists begin to explain animal movement with physics and anatomy, from Borelli's levers to the giant nerve cells of fish."
+    },
+    {
+      "id": "modes",
+      "name": "Watching fish swim",
+      "from": 1920,
+      "to": 1950,
+      "color": "#ffb547",
+      "summary": "Breder sorts the swimmers, Gray films them, and a dolphin puzzle appears."
+    },
+    {
+      "id": "india",
+      "name": "India's fisheries science",
+      "from": 1945,
+      "to": 1980,
+      "color": "#5ce1a9",
+      "summary": "India founds its fisheries institutes, breeds carps on farms, and changes its rivers."
+    },
+    {
+      "id": "physics",
+      "name": "Swimming as physics",
+      "from": 1955,
+      "to": 1985,
+      "color": "#7aa2ff",
+      "summary": "Speed rules, Lighthill's maths, and experiments on schools and the lateral line."
+    },
+    {
+      "id": "robots",
+      "name": "Seeing the water",
+      "from": 1990,
+      "to": 2010,
+      "color": "#8ef0ff",
+      "summary": "Lasers reveal the swirls behind fish, robots copy them, and old puzzles are settled."
+    },
+    {
+      "id": "people",
+      "name": "Fish and people",
+      "from": 2010,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Fishing bans, endangered river fish, reopened passages and record fish farming."
+    }
+  ],
+  "events": [
+    {
+      "year": 1680,
+      "date": "1680–1681",
+      "era": "early",
+      "art": "scroll",
+      "key": true,
+      "title": "A book on how animals move",
+      "who": "Giovanni Alfonso Borelli",
+      "where": "Rome, Papal States",
+      "country": "Italy",
+      "text": "Borelli's De motu animalium, published after his death, treated animals as machines of bones, muscles and levers. It has chapters on flying and swimming, and Borelli suggested fish squeeze or expand their swim bladder to match the water's weight.",
+      "why": "It was the first serious attempt to explain swimming with physics.",
+      "box": "steer",
+      "sources": [
+        23,
+        0
+      ]
+    },
+    {
+      "year": 1859,
+      "date": "1859",
+      "era": "early",
+      "art": "neuron",
+      "title": "Two giant nerve cells",
+      "who": "Ludwig Mauthner",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "A young medical student, Ludwig Mauthner, described two very large nerve cells in the hindbrain of fish. They are now called Mauthner cells, and a century later they were found to fire the fish's lightning escape, the C-start.",
+      "why": "One of the best-understood circuits in any brain began with this find.",
+      "box": "steer",
+      "sources": [
+        14,
+        13
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "1926",
+      "era": "modes",
+      "art": "word",
+      "key": true,
+      "title": "Swimmers sorted into kinds",
+      "who": "Charles M. Breder",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "In a long paper for the New York Zoological Society, Breder sorted fish by how they swim and named the kinds after typical fish: anguilliform after the eel Anguilla, carangiform after the jack Caranx, and ostraciiform after the stiff-bodied boxfish.",
+      "why": "Scientists still use his names a century later.",
+      "box": "history",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "1933",
+      "era": "modes",
+      "art": "film",
+      "key": true,
+      "title": "Filming the eel",
+      "who": "James Gray",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Gray filmed eels and other fish swimming in a tank against a grid, then traced the body frame by frame. He showed that a wave of bending runs back along the body faster than the fish moves forward, and that the wave is driven by the muscles in sequence.",
+      "why": "His three 1933 papers became the starting point of modern studies of fish swimming.",
+      "box": "wave",
+      "sources": [
+        2,
+        29,
+        25
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "1936",
+      "era": "modes",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Gray's paradox",
+      "who": "James Gray",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Gray worked out the power a dolphin would need for a burst of speed seen from a ship, if water flowed past it turbulently. It seemed far more than its muscles could give, so he suggested the dolphin's skin kept the flow smooth.",
+      "why": "The puzzle sent engineers hunting for drag-cutting tricks for decades.",
+      "box": "history",
+      "sources": [
+        3,
+        5
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "3 February 1947",
+      "era": "india",
+      "art": "boat",
+      "title": "India's marine fisheries institute",
+      "who": "Government of India",
+      "where": "Madras (Chennai), India",
+      "country": "India",
+      "text": "The Central Marine Fisheries Research Institute began as a research station in Madras. It later moved to Mandapam and then Kochi, and today it counts and studies India's sea fish.",
+      "why": "Its surveys underpin India's rules for fishing the sea.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "17 March 1947",
+      "era": "india",
+      "art": "flask",
+      "title": "A station for river fish",
+      "who": "Government of India",
+      "where": "Calcutta (Kolkata), India",
+      "country": "India",
+      "text": "A research station for inland fisheries opened in Calcutta. It became the Central Inland Fisheries Research Institute at Barrackpore in 1959 and studies the Ganga, its hilsa and India's reservoirs.",
+      "why": "Much of what India knows about its river fish comes from here.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "10 July 1957",
+      "era": "india",
+      "art": "flask",
+      "key": true,
+      "title": "Carps bred on a farm",
+      "who": "Hiralal Chaudhuri and K. H. Alikunhi",
+      "where": "Odisha, India",
+      "country": "India",
+      "text": "Working for the Pond Culture Division at Cuttack, the two scientists got Indian major carps to spawn by injecting an extract of carp pituitary gland. Farmers no longer had to rely on baby fish caught in rivers.",
+      "why": "It made carp farming boom; 10 July is now National Fish Farmers' Day.",
+      "box": "india",
+      "sources": [
+        15,
+        32
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958",
+      "era": "physics",
+      "art": "speedo",
+      "title": "Speed from the tail beat",
+      "who": "Richard Bainbridge",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Bainbridge filmed dace, trout and goldfish swimming at different speeds. Speed rose in step with tail-beat frequency and body length, and the tail's swing settled at about one fifth of the body length.",
+      "why": "It gave a simple rule linking tail beats to speed, used in this box's model.",
+      "box": "wave",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1960",
+      "era": "physics",
+      "art": "sinewave",
+      "key": true,
+      "title": "Fish swimming becomes mathematics",
+      "who": "James Lighthill",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Lighthill published a short paper on how a slender fish can bend to swim efficiently. His slender-body, later elongated-body, theory links the shape of the body wave to the push it makes.",
+      "why": "Engineers and biologists still start from Lighthill's equations.",
+      "box": "wave",
+      "sources": [
+        6,
+        25
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "physics",
+      "art": "wave",
+      "title": "Do schools save energy?",
+      "who": "Daniel Weihs",
+      "where": "Nature paper",
+      "country": "International",
+      "text": "Weihs argued that fish in a diamond-shaped school could ride the swirls left by the fish in front and save effort. Real schools are rarely that tidy, and the idea is still debated.",
+      "why": "It started a long study of how swimming together changes the flow.",
+      "box": "steer",
+      "sources": [
+        33,
+        0
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "1975",
+      "era": "india",
+      "art": "hydraulic",
+      "key": true,
+      "title": "A barrage across the Ganga",
+      "who": "Government of India",
+      "where": "Farakka, West Bengal",
+      "country": "India",
+      "text": "The Farakka barrage began diverting Ganga water to keep Kolkata's port open. It also blocked the hilsa's monsoon run upriver, and catches in the middle Ganga, once reaching Prayagraj, fell almost to nothing.",
+      "why": "It shows how a dam can cut a fish off from its breeding grounds.",
+      "box": "india",
+      "sources": [
+        16,
+        28
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "physics",
+      "art": "eye",
+      "title": "A blind fish can school",
+      "who": "Tony Pitcher, Brian Partridge and Clem Wardle",
+      "where": "Scotland (attributed)",
+      "country": "United Kingdom",
+      "text": "Saithe wearing small blindfolds still joined a school of normal fish and kept up with it.",
+      "why": "It showed fish can sense their neighbours without seeing them.",
+      "box": "steer",
+      "sources": [
+        30,
+        10
+      ]
+    },
+    {
+      "year": 1978,
+      "date": "1978",
+      "era": "modes",
+      "art": "word",
+      "title": "Thunniform joins the list",
+      "who": "C. C. Lindsey",
+      "where": "Canada",
+      "country": "Canada",
+      "text": "In a review of fish form and swimming, Lindsey refined the swimming modes, adding subcarangiform and thunniform, the tuna's style of flicking only a stiff tail.",
+      "why": "The modes became a smooth scale from eel to tuna.",
+      "box": "history",
+      "sources": [
+        24,
+        25
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "physics",
+      "art": "ear",
+      "title": "The lateral line keeps the school",
+      "who": "Brian Partridge and Tony Pitcher",
+      "where": "United Kingdom",
+      "country": "United Kingdom",
+      "text": "With blindfolds on some saithe and the lateral line cut in others, they found eyes and lateral line share the job. Fish without a lateral line swam closer and sometimes bumped their neighbours.",
+      "why": "It proved the lateral line is a real sense for swimming in groups.",
+      "box": "steer",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "July 1994",
+      "era": "robots",
+      "art": "motor",
+      "key": true,
+      "title": "RoboTuna swims",
+      "who": "Michael Triantafyllou, David Barrett and team, MIT",
+      "where": "Cambridge, Massachusetts, USA",
+      "country": "USA",
+      "text": "A four-foot robot bluefin tuna nicknamed Charlie, with a segmented backbone, cable tendons and a Lycra skin, made its first swim in MIT's testing tank.",
+      "why": "Robots let scientists test swimming ideas one change at a time.",
+      "box": "history",
+      "sources": [
+        11,
+        31
+      ]
+    },
+    {
+      "year": 1997,
+      "date": "1997",
+      "era": "robots",
+      "art": "wave",
+      "title": "Seeing the swirls",
+      "who": "Ulrike Müller, John Videler and colleagues",
+      "where": "Groningen, Netherlands",
+      "country": "Netherlands",
+      "text": "Using lasers and tracer particles (particle image velocimetry), they mapped the wake of a swimming mullet. It shed one swirl at each side of every tail beat, with a jet of water between them.",
+      "why": "For the first time the push of a swimming fish could be seen and measured in the water.",
+      "box": "wave",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "robots",
+      "art": "wing",
+      "title": "Shark fins do not lift",
+      "who": "Cheryl Wilga and George Lauder",
+      "where": "Harvard University, USA",
+      "country": "USA",
+      "text": "Filming leopard sharks in a flow tank with laser flow imaging, they found the pectoral fins make almost no lift in steady swimming. The sharks tilt their bodies slightly instead, and use the fins to start climbs, dives and turns.",
+      "why": "It overturned a textbook picture of sharks flying on their fins.",
+      "box": "steer",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003",
+      "era": "robots",
+      "art": "plane",
+      "key": true,
+      "title": "One number for swimmers and fliers",
+      "who": "Graham Taylor, Robert Nudds and Adrian Thomas",
+      "where": "Oxford, England",
+      "country": "United Kingdom",
+      "text": "They found that cruising dolphins, sharks, bony fish, birds, bats and insects all flap or beat at a Strouhal number between about 0.2 and 0.4, where making thrust is most efficient.",
+      "why": "It tied swimming and flying together with one simple rule.",
+      "box": "wave",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006",
+      "era": "robots",
+      "art": "muscle",
+      "title": "Gray's paradox explained",
+      "who": "Frank Fish and George Lauder",
+      "where": "USA",
+      "country": "USA",
+      "text": "Reviews by Fish and Lauder showed Gray's sums were built on a probably overestimated speed, a short sprint and muscle figures for human rowers. Sprint muscle gives several times more power.",
+      "why": "The paradox was not a paradox: dolphins were strong enough all along.",
+      "box": "history",
+      "sources": [
+        4,
+        5,
+        3
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "10 April 2015",
+      "era": "people",
+      "art": "boat",
+      "title": "A 61-day break for the sea",
+      "who": "Ministry of Agriculture, Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "India set a uniform 61-day ban on fishing by mechanised and motorised boats in its waters beyond the states' coastal zones, during the monsoon breeding season. The east coast closes from 15 April to 14 June and the west coast from 1 June to 31 July.",
+      "why": "It gives breeding fish a rest across the whole coastline at once.",
+      "box": "people",
+      "sources": [
+        20,
+        19,
+        21
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "5 August 2018",
+      "era": "people",
+      "art": "leaf",
+      "title": "Golden mahseer listed Endangered",
+      "who": "IUCN Red List",
+      "where": "Himalayan rivers",
+      "country": "India",
+      "text": "The golden mahseer, a giant river fish of the Himalayan foothills, was assessed as Endangered. Dams for hydropower and overfishing are the main threats named.",
+      "why": "It is a warning for the fish of fast Himalayan rivers.",
+      "box": "people",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "February 2019",
+      "era": "people",
+      "art": "hydraulic",
+      "title": "A lock opens for hilsa",
+      "who": "Inland Waterways Authority of India and ICAR-CIFRI",
+      "where": "Farakka, West Bengal",
+      "country": "India",
+      "text": "The navigation lock at Farakka began to be opened for a few hours at night during the hilsa season so fish could pass, and CIFRI released young hilsa upstream. Hilsa were again reported in the middle Ganga.",
+      "why": "It is a small step towards reconnecting a river for its fish.",
+      "box": "india",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "2023–24",
+      "era": "people",
+      "art": "boat",
+      "key": true,
+      "title": "India, second in the world",
+      "who": "Ministry of Fisheries, Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "India produced about 184 lakh tonnes of fish in 2023–24, nearly double the figure of ten years earlier, about three quarters of it from inland waters.",
+      "why": "Fish feed and employ millions, which makes managing them well matter.",
+      "box": "india",
+      "sources": [
+        26,
+        27
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Giant escape neurons described",
+      "value": "1859",
+      "who": "Ludwig Mauthner, Austria"
+    },
+    {
+      "label": "Swimming modes named",
+      "value": "1926",
+      "who": "Charles Breder, USA"
+    },
+    {
+      "label": "Indian major carps bred by injection",
+      "value": "10 July 1957",
+      "who": "Hiralal Chaudhuri and K. H. Alikunhi, India"
+    },
+    {
+      "label": "Robot tuna swims",
+      "value": "July 1994",
+      "who": "MIT, USA"
+    },
+    {
+      "label": "Wake of a swimming fish measured with lasers",
+      "value": "1997",
+      "who": "Müller, Videler and colleagues, Netherlands"
+    }
+  ],
+  "people": [
+    {
+      "name": "Giovanni Alfonso Borelli",
+      "life": "1608 – 1679",
+      "role": "Physiologist and mathematician",
+      "from": "Italy",
+      "note": "Explained animal movement with mechanics, swimming included."
+    },
+    {
+      "name": "James Gray",
+      "life": "1891 – 1975",
+      "role": "Zoologist",
+      "from": "United Kingdom",
+      "note": "Filmed swimming eels and posed the dolphin paradox."
+    },
+    {
+      "name": "James Lighthill",
+      "life": "1924 – 1998",
+      "role": "Applied mathematician",
+      "from": "United Kingdom",
+      "note": "Wrote the theory of how a slender bending body swims."
+    },
+    {
+      "name": "Ludwig Mauthner",
+      "life": "1840 – 1894",
+      "role": "Physician and eye doctor",
+      "from": "Austria (born in Prague)",
+      "note": "As a student, described the giant nerve cells that fire a fish's escape."
+    }
+  ],
+  "series": [
+    {
+      "id": "india",
+      "title": "Fish produced in India each year",
+      "unit": "million tonnes",
+      "log": false,
+      "after": "people",
+      "caption": "Official figures for India's total fish catch and farm production, inland and marine together.",
+      "points": [
+        {
+          "year": 1951,
+          "value": 0.75,
+          "label": "1950–51: 0.75 million tonnes (Economic Survey table)"
+        },
+        {
+          "year": 1991,
+          "value": 3.84,
+          "label": "1990–91: 3.84 million tonnes (Economic Survey table)"
+        },
+        {
+          "year": 2014,
+          "value": 9.58,
+          "label": "2013–14: 9.58 million tonnes (Ministry of Fisheries)"
+        },
+        {
+          "year": 2024,
+          "value": 18.4,
+          "label": "2023–24: 18.4 million tonnes (Ministry of Fisheries)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Most of a fish is swimming muscle, and most of that is pale white muscle kept for sprints.",
+    "A river fish needs a swim bladder about 7% of its body to float; in the denser sea, about 5% is enough.",
+    "Fish, dolphins, birds and bats all cruise with a Strouhal number between about 0.2 and 0.4.",
+    "Blindfolded saithe can still school, feeling their neighbours with the lateral line.",
+    "Sharks have no swim bladder: a big oily liver helps hold them up."
+  ],
+  "sources": [
+    {
+      "title": "Fish locomotion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fish_locomotion"
+    },
+    {
+      "title": "Breder, C. M. (1926). The locomotion of fishes. Zoologica 4: 159–297",
+      "publisher": "Biodiversity Heritage Library",
+      "url": "https://biodiversitylibrary.org/part/203769"
+    },
+    {
+      "title": "Gray, J. (1933). Studies in animal locomotion I: the movement of fish with special reference to the eel. J Exp Biol 10: 88–104",
+      "publisher": "Journal of Experimental Biology",
+      "url": "https://doi.org/10.1242/jeb.10.1.88"
+    },
+    {
+      "title": "Gray's paradox",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gray%27s_paradox"
+    },
+    {
+      "title": "Fish, F. E. & Lauder, G. V. (2006). Passive and active flow control by swimming fishes and mammals. Annu Rev Fluid Mech 38",
+      "publisher": "Harvard University (Lauder Lab)",
+      "url": "https://sites.harvard.edu/glauder/files/2022/03/FishLauder2006.pdf"
+    },
+    {
+      "title": "Fish, F. E. (2006). The myth and reality of Gray's paradox. Bioinspiration & Biomimetics 1",
+      "publisher": "West Chester University",
+      "url": "https://rcremote.wcupa.edu/sciences-mathematics/biology/fFish/documents/2006BampBGraysParadox.pdf"
+    },
+    {
+      "title": "Lighthill, M. J. (1960). Note on the swimming of slender fish. J Fluid Mech 9: 305–317",
+      "publisher": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/note-on-the-swimming-of-slender-fish/1DB2368914AD61BD29F5849AA5C5C236"
+    },
+    {
+      "title": "Bainbridge, R. (1958). The speed of swimming of fish as related to size and to the frequency and amplitude of the tail beat",
+      "publisher": "FishBase reference",
+      "url": "https://www.fishbase.se/references/FBRefSummary.php?id=3499"
+    },
+    {
+      "title": "Taylor, Nudds & Thomas (2003). Flying and swimming animals cruise at a Strouhal number tuned for high power efficiency. Nature 425: 707",
+      "publisher": "University of Oxford, Department of Biology",
+      "url": "https://www.biology.ox.ac.uk/node/1030831"
+    },
+    {
+      "title": "Müller, van den Heuvel, Stamhuis & Videler (1997). Fish foot prints: morphology and energetics of the wake behind a continuously swimming mullet. J Exp Biol 200: 2893",
+      "publisher": "Journal of Experimental Biology",
+      "url": "https://doi.org/10.1242/jeb.200.22.2893"
+    },
+    {
+      "title": "Partridge, B. L. & Pitcher, T. J. (1980). The sensory basis of fish schools: relative roles of lateral line and vision. J Comp Physiol 135: 315",
+      "publisher": "Springer",
+      "url": "https://doi.org/10.1007/BF00657647"
+    },
+    {
+      "title": "MIT engineers develop robotic tuna (1994)",
+      "publisher": "MIT News",
+      "url": "https://news.mit.edu/1994/robotuna"
+    },
+    {
+      "title": "Wilga, C. D. & Lauder, G. V. (2000). Three-dimensional kinematics and wake structure of the pectoral fins during locomotion in leopard sharks. J Exp Biol 203: 2261",
+      "publisher": "Journal of Experimental Biology",
+      "url": "https://doi.org/10.1242/jeb.203.15.2261"
+    },
+    {
+      "title": "Mauthner cell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mauthner_cell"
+    },
+    {
+      "title": "Ludwig Mauthner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ludwig_Mauthner"
+    },
+    {
+      "title": "National Fish Farmers' Day",
+      "publisher": "Vikaspedia (Government of India)",
+      "url": "https://en.vikaspedia.in/agriculture/agri-directory/important-days/national-fish-farmers-day"
+    },
+    {
+      "title": "Joint efforts towards re-establishing hilsa fishery in river Ganga after four decades",
+      "publisher": "Indian Council of Agricultural Research",
+      "url": "https://icar.org.in/en/node/11481"
+    },
+    {
+      "title": "Central Inland Fisheries Research Institute",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Inland_Fisheries_Research_Institute"
+    },
+    {
+      "title": "Central Marine Fisheries Research Institute",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Marine_Fisheries_Research_Institute"
+    },
+    {
+      "title": "Uniform ban on fishing in the Indian EEZ, west coast",
+      "publisher": "Lakshadweep Administration, Department of Fisheries",
+      "url": "https://lakshadweep.gov.in/notice/department-of-fisheries-utla-the-president-of-india-is-pleased-to-impose-a-uniform-ban-on-fishing-vessels-in-the-indian-eez-beyond-territorial-waters-on-the-west-coast-including-lakshadweep-islands/"
+    },
+    {
+      "title": "Fishing ban notification",
+      "publisher": "Fishery Survey of India",
+      "url": "https://fsi.gov.in/sites/default/files/ministry-notifications-Document/FishingBan.pdf"
+    },
+    {
+      "title": "Monsoon trawl ban",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monsoon_trawl_ban"
+    },
+    {
+      "title": "Tor putitora (golden mahseer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tor_putitora"
+    },
+    {
+      "title": "Diagram showing the action of swimming in man and fish (Borelli, De motu animalium, 1734 edition)",
+      "publisher": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/works/ffsqmgcq"
+    },
+    {
+      "title": "The SWIMMING and SPEED tables (swimming modes after Lindsey 1978)",
+      "publisher": "FishBase",
+      "url": "https://fishbase.se/manual/FishBaseThe_SWIMMING_and_SPEED_Tables.htm"
+    },
+    {
+      "title": "Lauder, G. V. & Tytell, E. D. (2006). Hydrodynamics of undulatory propulsion. Fish Physiology 23",
+      "publisher": "Harvard University (Lauder Lab)",
+      "url": "https://sites.harvard.edu/glauder/files/2022/03/Lauder.Tytell.2006.pdf"
+    },
+    {
+      "title": "Fish production in country doubles in last 10 years: Ministry of Fisheries",
+      "publisher": "All India Radio News (newsonair.gov.in)",
+      "url": "https://www.newsonair.gov.in/fish-production-in-country-doubles-in-last-10-years-ministry-of-fisheries"
+    },
+    {
+      "title": "Economic Survey 1996–97, Table 8.28: fish production",
+      "publisher": "Government of India, Union Budget archive",
+      "url": "https://www.indiabudget.gov.in/budget_archive/es96-97/TAB828.HTM"
+    },
+    {
+      "title": "Farakka Barrage",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Farakka_Barrage"
+    },
+    {
+      "title": "Referee's report by A. V. Hill on Gray's 'Studies in animal movement I'",
+      "publisher": "Royal Society, Making Science",
+      "url": "https://makingscience.royalsociety.org/items/rr_47_72/referees-report-by-archibald-vivian-hill-on-a-paper-studies-in-animal-movement-i-the-movements-of-fish-with-special-reference-to-the-eel-by-gray"
+    },
+    {
+      "title": "Pitcher, Partridge & Wardle (1976). A blind fish can school. Science 194: 963",
+      "publisher": "Science (via library record)",
+      "url": "https://doi.org/10.1126/science.982056"
+    },
+    {
+      "title": "Robotuna",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RoboTuna"
+    },
+    {
+      "title": "Pond culture of Indian major carps: composite fish culture",
+      "publisher": "ICAR Krishi Vigyan Kendra, North Goa",
+      "url": "https://kvknorthgoa.icar.gov.in/fishdb/to/CFC.pdf"
+    },
+    {
+      "title": "Weihs, D. (1973). Hydromechanics of fish schooling. Nature 241: 290",
+      "publisher": "Nature",
+      "url": "https://doi.org/10.1038/241290a0"
+    }
+  ]
+}
